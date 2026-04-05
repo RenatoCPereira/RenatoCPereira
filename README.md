@@ -1,18 +1,59 @@
-### Olá, eu sou Renato Pereira!👋⚡✨
+# 👋 Olá, eu sou Renato Pereira
+
+💻 Desenvolvedor Java Júnior focado em Backend, com experiência no desenvolvimento de APIs REST utilizando Spring Boot.
+
+🎓 Bacharel em Sistemas de Informação e Administração de Empresas, atualmente em transição de carreira para a área de Tecnologia da Informação.
+
+🚀 Busco uma oportunidade como Desenvolvedor Java Júnior, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes.
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+- Java (SE/EE)  
+- Spring Boot  
+- Spring MVC  
+- Spring Security  
+- APIs REST  
+- SQL / MySQL  
+- Git e GitHub  
+- JUnit  
+- Selenium  
+
+---
+
+## 💼 Projetos em destaque
+
+### 🔹 API REST de Cadastro de Usuários
+- CRUD completo com Spring Boot  
+- Validações com Bean Validation  
+- Integração com banco MySQL  
+- Testes com JUnit  
+
+🔗 (adicione aqui o link do repositório)
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
   <a href="https://github.com/RenatoCPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoCPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCPereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Renato-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Renato-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renato-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  
-</div>
+
+---
+
+## 📫 Contato
+
+📧 Email: **renatopereiradev@gmail.com**  
+💼 LinkedIn: (https://github.com/RenatoCPereira)
+
+---
+
+## 🚀 Sobre mim
+
+✔ Perfil analítico com base em Administração  
+✔ Facilidade de aprendizado e adaptação  
+✔ Foco em boas práticas e qualidade de código  
+✔ Interesse em desenvolvimento backend e arquitetura de sistemas  
