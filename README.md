@@ -27,10 +27,10 @@
 ### 🔹 API REST de Cadastro de Usuários
 - CRUD completo com Spring Boot  
 - Validações com Bean Validation  
-- Integração com banco MySQL  
+- Integração com banco H2  
 - Testes com JUnit  
 
-🔗 (adicione aqui o link do repositório)
+🔗 (https://github.com/RenatoCPereira/bootcamp_delotti)
 
 ---
 
@@ -47,13 +47,15 @@
 ## 📫 Contato
 
 📧 Email: **renatopereiradev@gmail.com**  
-💼 LinkedIn: (https://github.com/RenatoCPereira)
+💼 LinkedIn: (https://www.linkedin.com/in/renatocarlospereira/)
 
 ---
 
 ## 🚀 Sobre mim
 
-✔ Perfil analítico com base em Administração  
-✔ Facilidade de aprendizado e adaptação  
-✔ Foco em boas práticas e qualidade de código  
+✔ Desenvolvimento de APIs REST com Java e Spring Boot  
+✔ Integração com banco de dados MySQL  
+✔ Conhecimento em arquitetura backend e boas práticas  
+✔ Testes automatizados com JUnit  
+✔ Perfil analítico e aprendizado rápido  
 ✔ Interesse em desenvolvimento backend e arquitetura de sistemas  
